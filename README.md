@@ -2,6 +2,9 @@
 
 This repository contains the **client-side application** for the BrainStation x Meta Industry Project. The client is responsible for presenting the user interface and handling interactions with the server.
 
+### Backend
+[Backend project]([https://github.com/shanta3220/nusrat-jahan-shanta-capstone-backend](https://github.com/shanta3220/ip-meta-server))
+
 ## 📋 Project Overview
 
 This project is part of a **24-hour collaborative hackathon** where participants work together to solve industry-relevant challenges in a simulated real-world team environment.
